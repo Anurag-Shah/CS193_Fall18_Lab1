@@ -1,4 +1,4 @@
-#Anurag Shah's first CS193 Lab
+# Anurag Shah's first CS193 Lab
 
 Favorite things about Purdue CS193:
 - Lab and lecture alternates, spicing up my schedule
